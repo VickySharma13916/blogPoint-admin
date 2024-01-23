@@ -1,0 +1,12 @@
+.card {
+  border: 0;
+  box-shadow: $box-shadow-4;
+
+  &-header {
+    background-color: transparent;
+    // border          : 0;
+    // font-size       : 2rem;
+    font-weight: 700;
+    color: $gray-900;
+  }
+}

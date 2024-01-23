@@ -1,0 +1,11 @@
+name,countryCode,stateCode,latitude,longitude,threshold
+City 1,c1,s1,,,34
+City 2,c2,s2,,,43
+City 3,c3,s3,,,56
+City 4,c4,s4,,,65
+City 5,c5,s5,,,43
+City 6,c6,s6,,,32
+City 7,c7,s7,,,3
+City 8,c8,s8,,,3
+City 9,c9,s9,,,32
+City 10,c10,s10,,,43

@@ -1,0 +1,11 @@
+name,currency,latitude,longitude,isoCode,flag,threshold
+country 1,cur1,,,c1,c1,410
+country 2,cur2,,,c2,c2,152
+country 3,cur3,,,c3,c3,526
+country 4,cur4,,,c4,c4,356
+country 5,cur5,,,c5,c5,248
+country 6,cur6,,,c6,c6,965
+country 7,cur7,,,c7,c7,252
+country 8,cur8,,,c8,c8,21
+country 9,cur9,,,c9,c9,26
+country 10,cur10,,,c10,c10,258

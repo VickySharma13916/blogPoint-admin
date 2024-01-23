@@ -59,7 +59,7 @@ const ImageTuracoz = ({ fetching, deleteHomepage, getHomepageDetail }) => {
               icon={{ type: MdAdd }}
               onClick={() => history.push(`${url}/AddImageTuracoz`)}
             >
-              Add Image turacoz
+              Add Image BlogPoint
             </IconButton>
           </div>
           <DataTable

@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 // import LogoImg from "../../assets/images/logo.png";
 
 const Logo = ({ width, maxWidth }) => {
-  return <div className="logo-brand">Turacoz</div>;
+  return <div className="logo-brand">BlogPoint</div>;
   // <Image src={LogoImg} style={{ width: width, maxWidth: maxWidth }} fluid />
 };
 

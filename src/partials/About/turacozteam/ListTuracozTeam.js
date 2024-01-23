@@ -170,7 +170,7 @@ const ListTuracozTeam = ({ fetching, deleteTuracozTeam, getTuracozTeam }) => {
       <ConfirmDialog
         show={showCDialog}
         setShow={setShowCDialog}
-        title="Delete Turacoz Team Member"
+        title="Delete BlogPoint Team Member"
         message={`Are you sure, you want to delete <b>${deletingUser.current?.teamName}</b>?`}
         onConfirm={handleOnConfirm}
       />

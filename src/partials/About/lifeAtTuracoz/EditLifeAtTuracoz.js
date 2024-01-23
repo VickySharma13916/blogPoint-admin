@@ -92,7 +92,7 @@ const EditLifeAtTuracoz = ({
             onClick={handleOnClose}
             className="p-0 me-2"
           />
-          <h6 className="mb-0">Update turacozteam Member</h6>
+          <h6 className="mb-0">Update BlogPoint team Member</h6>
         </>
       }
     >

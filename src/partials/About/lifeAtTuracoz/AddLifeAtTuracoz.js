@@ -90,7 +90,7 @@ const AddLifeAtTuracoz = ({
             onClick={handleOnClose}
             className="p-0 me-2"
           />
-          <h6 className="mb-0">Add Life At Turacoz Team Member</h6>
+          <h6 className="mb-0">Add Life At BlogPoint Team Member</h6>
         </>
       }
     >
@@ -125,7 +125,7 @@ const AddLifeAtTuracoz = ({
           </Col>
           <Col xs={12}>
             <div className="image-uploader-container">
-              <div className="brandimage">Turacoz Team Member Image</div>
+              <div className="brandimage">BlogPoint Team Member Image</div>
               <div className="image-container">
                 {brandimage ? (
                   <img src={BACKEND_URL + brandimage} alt="uploaded-item" />

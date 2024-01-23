@@ -23,7 +23,7 @@ const ListAbout = ({ refresh, setRefresh, history }) => {
           >
             <Tab
               eventKey="team"
-              title={<span className="title_user">Turacoz Team</span>}
+              title={<span className="title_user">BlogPoint Team</span>}
             >
               <ListTuracozTeam
                 refresh={refresh}
@@ -33,7 +33,7 @@ const ListAbout = ({ refresh, setRefresh, history }) => {
             </Tab>
             <Tab
               eventKey="life-at-turacoz"
-              title={<span className="title_user">Life At Turacoz</span>}
+              title={<span className="title_user">Life At BlogPoint</span>}
             >
               <ListLifeAtTuracoz
                 refresh={refresh}
@@ -43,7 +43,7 @@ const ListAbout = ({ refresh, setRefresh, history }) => {
             </Tab>
             <Tab
               eventKey="image-turacoz"
-              title={<span className="title_user">Image Slider Turacoz</span>}
+              title={<span className="title_user">Image Slider BlogPoint</span>}
             >
               <ListImageTuracoz
                 refresh={refresh}

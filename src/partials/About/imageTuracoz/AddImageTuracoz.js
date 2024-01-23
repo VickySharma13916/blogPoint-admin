@@ -103,7 +103,7 @@ const AddImageTuracoz = ({
           </Col>
           <Col xs={12}>
             <div className="image-uploader-container">
-              <div className="brandimage">Turacoz about Image</div>
+              <div className="brandimage">BlogPoint about Image</div>
               <div className="image-container">
                 {brandimage ? (
                   <img src={BACKEND_URL + brandimage} alt="uploaded-item" />

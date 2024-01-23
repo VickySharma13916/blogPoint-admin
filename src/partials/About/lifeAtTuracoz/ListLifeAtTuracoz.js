@@ -59,7 +59,7 @@ const ListLifeAtTuracoz = ({ fetching, deleteHomepage, getHomepageDetail }) => {
               icon={{ type: MdAdd }}
               onClick={() => history.push(`${url}/AddLifeAtTuracoz`)}
             >
-              Add Life At turacoz
+              Add Life At BlogPoint
             </IconButton>
           </div>
           <DataTable

@@ -1,0 +1,2 @@
+(this["webpackJsonpadmin-panel"]=this["webpackJsonpadmin-panel"]||[]).push([[167],{1040:function(e,t,a){"use strict";a.r(t);a(2);var n=a(623),i=a(271),c=a(3);t.default=function(){return Object(c.jsx)(i.a,{id:"page--no-found",title:"Unauthorized",children:Object(c.jsxs)(n.a,{border:"light",className:"w-100 mx-auto",children:[Object(c.jsx)(n.a.Header,{children:"Unauthorized"}),Object(c.jsx)(n.a.Body,{children:"You are not authorized to view this page. Contact admin to get access."})]})})}}}]);
+//# sourceMappingURL=167.97ea5fe8.chunk.js.map

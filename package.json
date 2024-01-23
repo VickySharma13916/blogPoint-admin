@@ -59,6 +59,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "production": "npx serve -s build",
     "build": "react-scripts --max_old_space_size=4096 build",
     "build:stage": "env-cmd -f .env.stage react-scripts build",
     "test": "react-scripts test",
